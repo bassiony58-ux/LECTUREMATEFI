@@ -1,0 +1,15 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "type": "content",
+      "title": "Quantum Computing",
+      "bullets": [
+        "Uses qubits instead of bits",
+        "Based on superposition and entanglement",
+        "Extremely fast for certain calculations"
+      ],
+      "language": "en"
+    }
+  ]
+}
